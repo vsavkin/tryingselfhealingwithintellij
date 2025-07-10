@@ -8,6 +8,6 @@ import { NxWelcome } from './nx-welcome';
   templateUrl: './app.html',
   styleUrl: './app.css',
 })
-export classs App {
+export class App {
   protected title = 'tryingselfhealingwithintellij';
 }
